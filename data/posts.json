@@ -1,13 +1,25 @@
 [
 	{
-	"index":1,	
-	"data":"20/10/2023",
-	"title":"O primeiro de muitos",
-	"content":[
-		"Meu primeiro post nesse blog começa contando como foi feito este portfolio.",
-		"Ele é feito em Next Js, utilizando styled-components para estilização. Os posts do blog são pegos de um Json hospedado em meu github.",
-		"Algo muito simples, apenas para expor meu crescimento enquanto desenvolvedora.",
-		"Muito Obrigada por ler"
-	]
+		"index":1,	
+		"data":"20/10/2023",
+		"title":"O primeiro de muitos",
+		"content":[
+			{
+				"img":false,
+				"text":"Meu primeiro post nesse blog começa contando como foi feito este portfolio."
+			},
+			{
+				"img": false,
+				"text":"Ele é feito em Next Js, utilizando styled-components para estilização. Os posts do blog são pegos de um Json hospedado em meu github."
+			},
+			{
+				"img": false,
+				"text":	"Algo muito simples, apenas para expor meu crescimento enquanto desenvolvedora."
+			},
+			{
+				"img": false,
+				"text": "Muito Obrigada por ler até aqui."
+			}
+		]
 	}
 ]

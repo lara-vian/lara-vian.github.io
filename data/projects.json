@@ -1,0 +1,39 @@
+[
+	{
+		"name":"Feary Wivern",
+		"description":"Um VTT construído inteiramente para meu próprio sistema de RPG. Ele está sendo feito em React e C#",
+		"content":[
+			{
+				"img":false,
+				"text":"comecei este projeto no incio do ano de 2023, acabei apagando ele do meu github ao perceber que ele era completamente ineficiente."
+			},
+			{
+				"img":false,
+				"text":"passei então a estudar C# para desenvolver um back-end para ele em .NET, ainda estou no começo, mas voltei a focar em desenvolver então logo haverá mais aqui."
+			}
+		]
+	},
+	{
+		"name":"Mista Lista",
+		"description":"Esse projeto é mais um aprendizado e um favor ao meu pai que qualquer outra coisa.",
+		"content":[
+			{
+				"img":false,
+				"text":"No inicio de 2023 eu usei React Native para criar um app de lista de compras para meus pais, eles adoraram, mas sempre que eu dou a mão eles pedem o braço. diversos pedidos foram feitos sobre o simples app que fiz."
+			},
+			{
+				"img":false,
+				"text":"Decidi aproveitar a oportunidade para estudar algo novo, sempre quis Flutter, então comecei a fazer isso para desenvolver um novo app, com todos pedidos de melhorias que foram feitos ao antigo."
+			},
+			{
+				"img":false,
+				"text":"A ideia é muito simples, o app funciona apenas lendo uma tabela no Supabase e permitindo gravar nela, a ideia é que todas as pessoas com o app possam ver e alterar a mesma tabela."
+			},
+			{
+				"img":false,
+				"text":"Assim todos os moradores da minha casa podem adicionar a uma lista de compras em conjunto, comecei a desenvolver ele um pouco antes de  começar este portfolio, então imagino que os primeiros posts no blog serão sobre meu aprendizado em Flutter e desenvolvimento dele"
+			}
+			
+		]
+	}
+]

@@ -6,37 +6,40 @@
 		"content":[
 			{
 				"img":false,
-				"text":"comecei este projeto no incio do ano de 2023, acabei apagando ele do meu github ao perceber que ele era completamente ineficiente."
+				"text":"Comecei este projeto no incio do ano de 2023, acabei apagando ele do meu github ao perceber que ele estava completamente ineficiente. Passei, então a estudar C# para desenvolver um Back-end em .NET para este projeto, ainda estou no começo, mas voltei a focar em desenvolver. logo haverá mais sobre ele aqui."
 			},
 			{
 				"img":false,
-				"text":"passei então a estudar C# para desenvolver um back-end para ele em .NET, ainda estou no começo, mas voltei a focar em desenvolver então logo haverá mais aqui."
+				"text":"Logo haverá mais sobre ele aqui."
 			}
 		]
 	},
 	{
 		"id":1,
 		"name":"Mista Lista",
-		"description":"Esse projeto é mais um aprendizado e um favor ao meu pai que qualquer outra coisa.",
+		"description":"Esse projeto é mais um aprendizado e uma organização das compras familiares.",
 		"content":[
 			{
 				"img":false,
-				"text":"No inicio de 2023 eu usei React Native para criar um app de lista de compras para meus pais, eles adoraram, mas sempre que eu dou a mão eles pedem o braço. diversos pedidos foram feitos sobre o simples app que fiz."
+				"text":"No inicio de 2023 eu usei React Native para criar um app de lista de compras para meus pais, eles adoraram, e logo deram varias sugestões para ficar ainda melhor. Inicialmente ele era assim:"
 			},{
 				"img":true,
 				"text":"https://i.ibb.co/RjZnnNk/Mista-lista-v1.jpg"
+			},{
+				"img":false,
+				"text":"Era nada mais que uma longa lista de itens retirados de um tabela, era possível dizer que o item já havia sido pego no botão OK, ele então era deletado da tabela. Na caixa abaixo ficam três inputs para informar o nome do item, a quantidade e adiciona-lo a tabela."
 			},
 			{
 				"img":false,
-				"text":"Decidi aproveitar a oportunidade para estudar algo novo, sempre quis Flutter, então comecei a fazer isso para desenvolver um novo app, com todos pedidos de melhorias que foram feitos ao antigo."
+				"text":"Como sempre quis estudar Flutter, então comecei a fazer isso para desenvolver um nova versão do app, com todas as sugestões de melhorias que foram feitas."
 			},
 			{
 				"img":false,
-				"text":"A ideia é muito simples, o app funciona apenas lendo uma tabela no Supabase e permitindo gravar nela, a ideia é que todas as pessoas com o app possam ver e alterar a mesma tabela."
+				"text":"A ideia é muito simples, o app funciona apenas lendo uma tabela no Supabase e permitindo gravar nela, a ideia é que todas as pessoas com o app possam ver e alterar a mesma tabela. Assim todos os moradores da minha casa podem adicionar a uma lista de compras em conjunto."
 			},
 			{
 				"img":false,
-				"text":"Assim todos os moradores da minha casa podem adicionar a uma lista de compras em conjunto, comecei a desenvolver ele um pouco antes de  começar este portfolio, então imagino que os primeiros posts no blog serão sobre meu aprendizado em Flutter e desenvolvimento dele"
+				"text":"Comecei a desenvolver essa nova versão um pouco antes de  começar este portfolio, então imagino que os primeiros posts no blog serão sobre meu aprendizado em Flutter e desenvolvimento dele"
 			}	
 		]
 	}

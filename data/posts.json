@@ -7,15 +7,11 @@
 		"content":[
 			{
 				"img":false,
-				"text":"Meu primeiro post nesse blog começa contando como foi feito este portfolio."
+				"text":"Meu primeiro post nesse blog começa contando como foi feito este portfolio:"
 			},
 			{
 				"img": false,
-				"text":"Ele é feito em Next Js, utilizando styled-components para estilização. Os posts do blog são pegos de um Json hospedado em meu github."
-			},
-			{
-				"img": false,
-				"text":	"Algo muito simples, apenas para expor meu crescimento enquanto desenvolvedora."
+				"text":"Ele é feito em Next Js, utilizando styled-components para estilização. Os posts são pegos de um Json hospedado em meu github, algo muito simples, apenas para expor meu crescimento enquanto desenvolvedora."
 			},
 			{
 				"img": false,

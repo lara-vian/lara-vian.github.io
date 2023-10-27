@@ -18,5 +18,29 @@
 				"text": "Muito Obrigada por ler até aqui."
 			}
 		]
+	},
+	{
+		"id":1,
+		"sobre":"Mista Lista",
+		"data":"27/10/2023",
+		"title":"Estilizar em Flutter",
+		"content":[
+			{
+				"img":false,
+				"text":"Nos últimos 4 dias venho desenvolvendo o projeto Mista Lista. Meu maior desafio de aprendizagem nesses dias vem sendo a estilização desse app. No desenvolvimento da última versão em React Native a estilização era algo confortável, eu já havia feito outros apps usando React Native para treinar, agora desenvolvendo em Flutter é a primeira vez que uso Flutter."
+			},
+			{
+				"img": false,
+				"text":"Estou completamente fora da minha zona de conforto, mas esse sempre foi o objetivo, apenas adicionar melhorias a primeira versão do app em React Native eu saberia como fazer, mas eu queria aprender Flutter e essa era uma boa oportunidade."
+			},
+			{
+				"img": false,
+				"text":"Apesar das minhas dificuldades para entender como funciona a estilização no Flutter, considero que nesses dias fiz um excelente progresso. A nova versão já está melhor que a antiga nesse sentido, e os últimos dias foram apenas pesquisa, aprendizado e testes."
+			},
+			{
+				"img": false,
+				"text": "Muito Obrigada por ler até aqui."
+			}
+		]
 	}
 ]

@@ -1,46 +1,104 @@
 [
-	{
-		"id":0,
-		"name":"Feary Wivern",
-		"description":"Um VTT construído inteiramente para meu próprio sistema de RPG. Ele está sendo feito em React e C#",
-		"content":[
-			{
-				"img":false,
-				"text":"Comecei este projeto no incio do ano de 2023, acabei apagando ele do meu github ao perceber que ele estava completamente ineficiente. Passei, então a estudar C# para desenvolver um Back-end em .NET para este projeto, ainda estou no começo, mas voltei a focar em desenvolver. logo haverá mais sobre ele aqui."
-			},
-			{
-				"img":false,
-				"text":"Logo haverá mais sobre ele aqui."
-			}
-		]
-	},
-	{
-		"id":1,
-		"name":"Mista Lista",
-		"description":"Esse projeto é mais um aprendizado e uma organização das compras familiares.",
-		"content":[
-			{
-				"img":false,
-				"text":"No inicio de 2023 eu usei React Native para criar um app de lista de compras para meus pais, eles adoraram, e logo deram varias sugestões para ficar ainda melhor. Inicialmente ele era assim:"
-			},{
-				"img":true,
-				"text":"https://i.ibb.co/RjZnnNk/Mista-lista-v1.jpg"
-			},{
-				"img":false,
-				"text":"Era nada mais que uma longa lista de itens retirados de um tabela, era possível dizer que o item já havia sido pego no botão OK, ele então era deletado da tabela. Na caixa abaixo ficam três inputs para informar o nome do item, a quantidade e adiciona-lo a tabela."
-			},
-			{
-				"img":false,
-				"text":"Como sempre quis estudar Flutter, então comecei a fazer isso para desenvolver um nova versão do app, com todas as sugestões de melhorias que foram feitas."
-			},
-			{
-				"img":false,
-				"text":"A ideia é muito simples, o app funciona apenas lendo uma tabela no Supabase e permitindo gravar nela, a ideia é que todas as pessoas com o app possam ver e alterar a mesma tabela. Assim todos os moradores da minha casa podem adicionar a uma lista de compras em conjunto."
-			},
-			{
-				"img":false,
-				"text":"Comecei a desenvolver essa nova versão um pouco antes de  começar este portfolio, então imagino que os primeiros posts no blog serão sobre meu aprendizado em Flutter e desenvolvimento dele"
-			}	
-		]
-	}
+  {
+    "id": 0,
+    "name": {
+      "pt": "Portfolio",
+      "en": "Portfolio"
+    },
+    "description": {
+      "pt": "Meu portifolio e blog pessoal",
+      "en": "My portfolio and personal blog"
+    },
+    "content": [
+      {
+        "text": {
+          "pt": "Meu primeiro post nesse blog começa contando como foi feito este portfolio:",
+          "en": "My first post on this blog starts by telling how this portfolio was made:"
+        }
+      },
+      {
+        "text": {
+          "pt": "Ele é feito em Next Js, utilizando styled-components para estilização. Os posts são pegos de um Json hospedado em meu github, algo muito simples, apenas para expor meu crescimento enquanto desenvolvedora.",
+          "en": "It is made with Next.js, using styled-components for styling. The posts are fetched from a JSON hosted on my GitHub, something very simple, just to showcase my growth as a developer."
+        }
+      },
+      {
+        "text": {
+          "pt": "Muito Obrigada por ler até aqui.",
+          "en": "Thank you very much for reading this far."
+        }
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": {
+      "pt": "Feary Wivern",
+      "en": "Feary Wivern"
+    },
+    "description": {
+      "pt": "Um VTT construído inteiramente para meu próprio sistema de RPG. Ele está sendo feito em React e C#",
+      "en": "A VTT built entirely for my own RPG system. It is being made with React and C#"
+    },
+    "content": [
+      {
+        "text": {
+          "pt": "Comecei este projeto no incio do ano de 2023, acabei apagando ele do meu github ao perceber que ele estava completamente ineficiente. Passei, então a estudar C# para desenvolver um Back-end em .NET para este projeto, ainda estou no começo, mas voltei a focar em desenvolver. logo haverá mais sobre ele aqui.",
+          "en": "I started this project at the beginning of 2023, ended up deleting it from my GitHub when I realized it was completely inefficient. I then started studying C# to develop a Back-end in .NET for this project, I'm still at the beginning, but I've gone back to focusing on developing it. Soon there will be more about it here."
+        }
+      },
+      {
+        "text": {
+          "pt": "Logo haverá mais sobre ele aqui.",
+          "en": "Soon there will be more about it here."
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": {
+      "pt": "Mista Lista",
+      "en": "Mixed List"
+    },
+    "description": {
+      "pt": "Esse projeto é mais um aprendizado e uma organização das compras familiares.",
+      "en": "This project is more of a learning experience and an organization of family shopping."
+    },
+    "content": [
+      {
+        "text": {
+          "pt": "No inicio de 2023 eu usei React Native para criar um app de lista de compras para meus pais, eles adoraram, e logo deram varias sugestões para ficar ainda melhor. Inicialmente ele era assim:",
+          "en": "At the beginning of 2023 I used React Native to create a shopping list app for my parents, they loved it, and soon gave several suggestions to make it even better. Initially it looked like this:"
+        }
+      },
+      {
+        "img": "https://i.ibb.co/RjZnnNk/Mista-lista-v1.jpg"
+      },
+      {
+        "text": {
+          "pt": "Era nada mais que uma longa lista de itens retirados de um tabela, era possível dizer que o item já havia sido pego no botão OK, ele então era deletado da tabela. Na caixa abaixo ficam três inputs para informar o nome do item, a quantidade e adiciona-lo a tabela.",
+          "en": "It was nothing more than a long list of items retrieved from a table, it was possible to say that the item had already been picked up by clicking the OK button, it was then deleted from the table. In the box below there are three inputs to enter the item name, quantity and add it to the table."
+        }
+      },
+      {
+        "text": {
+          "pt": "Como sempre quis estudar Flutter, então comecei a fazer isso para desenvolver um nova versão do app, com todas as sugestões de melhorias que foram feitas.",
+          "en": "Since I always wanted to study Flutter, I started doing this to develop a new version of the app, with all the improvement suggestions that were made."
+        }
+      },
+      {
+        "text": {
+          "pt": "A ideia é muito simples, o app funciona apenas lendo uma tabela no Supabase e permitindo gravar nela, a ideia é que todas as pessoas com o app possam ver e alterar a mesma tabela. Assim todos os moradores da minha casa podem adicionar a uma lista de compras em conjunto.",
+          "en": "The idea is very simple, the app works by just reading a table in Supabase and allowing you to write to it, the idea is that everyone with the app can view and change the same table. This way all the residents of my house can add to a shopping list together."
+        }
+      },
+      {
+        "text": {
+          "pt": "Comecei a desenvolver essa nova versão um pouco antes de  começar este portfolio, então imagino que os primeiros posts no blog serão sobre meu aprendizado em Flutter e desenvolvimento dele",
+          "en": "I started developing this new version a little before starting this portfolio, so I imagine that the first posts on the blog will be about my learning in Flutter and its development"
+        }
+      }
+    ]
+  }
 ]

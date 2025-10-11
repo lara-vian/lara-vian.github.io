@@ -1,45 +1,65 @@
 [
 	{
 		"id":0,
-		"sobre":"Portfolio",
-		"data":"20/10/2023",
-		"title":"O primeiro de muitos",
+		"about":0,
+		"date":"20/10/2023",
+		"title": {
+			"pt": "O primeiro de muitos",
+			"en": "The first of many"
+		},
 		"content":[
 			{
-				"img":false,
-				"text":"Meu primeiro post nesse blog começa contando como foi feito este portfolio:"
+				"text": {
+					"pt": "Meu primeiro post nesse blog começa contando como foi feito este portfolio:",
+					"en": "My first post on this blog starts by telling how this portfolio was made:"
+				}
 			},
 			{
-				"img": false,
-				"text":"Ele é feito em Next Js, utilizando styled-components para estilização. Os posts são pegos de um Json hospedado em meu github, algo muito simples, apenas para expor meu crescimento enquanto desenvolvedora."
+				"text": {
+					"pt": "Ele é feito em Next Js, utilizando styled-components para estilização. Os posts são pegos de um Json hospedado em meu github, algo muito simples, apenas para expor meu crescimento enquanto desenvolvedora.",
+					"en": "It is made with Next.js, using styled-components for styling. The posts are fetched from a JSON hosted on my GitHub, something very simple, just to showcase my growth as a developer."
+				}
 			},
 			{
-				"img": false,
-				"text": "Muito Obrigada por ler até aqui."
+				"text": {
+					"pt": "Muito Obrigada por ler até aqui.",
+					"en": "Thank you very much for reading this far."
+				}
 			}
 		]
 	},
 	{
 		"id":1,
-		"sobre":"Mista Lista",
-		"data":"27/10/2023",
-		"title":"Estilizar em Flutter",
+		"about":2,
+		"date":"27/10/2023",
+		"title": {
+			"pt": "Estilizar em Flutter",
+			"en": "Styling in Flutter"
+		},
 		"content":[
 			{
-				"img":false,
-				"text":"Nos últimos 4 dias venho desenvolvendo o projeto Mista Lista. Meu maior desafio de aprendizagem nesses dias vem sendo a estilização desse app. No desenvolvimento da última versão em React Native a estilização era algo confortável, eu já havia feito outros apps usando React Native para treinar, agora desenvolvendo em Flutter é a primeira vez que uso Flutter."
+				"text": {
+					"pt": "Nos últimos 4 dias venho desenvolvendo o projeto Mista Lista. Meu maior desafio de aprendizagem nesses dias vem sendo a estilização desse app. No desenvolvimento da última versão em React Native a estilização era algo confortável, eu já havia feito outros apps usando React Native para treinar, agora desenvolvendo em Flutter é a primeira vez que uso Flutter.",
+					"en": "In the last 4 days I have been developing the Mista Lista project. My biggest learning challenge these days has been styling this app. When developing the previous version in React Native, styling was something comfortable, I had already made other apps using React Native for practice, now developing in Flutter it's the first time I'm using Flutter."
+				}
 			},
 			{
-				"img": false,
-				"text":"Estou completamente fora da minha zona de conforto, mas esse sempre foi o objetivo, apenas adicionar melhorias a primeira versão do app em React Native eu saberia como fazer, mas eu queria aprender Flutter e essa era uma boa oportunidade."
+				"text": {
+					"pt": "Estou completamente fora da minha zona de conforto, mas esse sempre foi o objetivo, apenas adicionar melhorias a primeira versão do app em React Native eu saberia como fazer, mas eu queria aprender Flutter e essa era uma boa oportunidade.",
+					"en": "I am completely out of my comfort zone, but that has always been the goal. Just adding improvements to the first version of the app in React Native I would know how to do, but I wanted to learn Flutter and this was a good opportunity."
+				}
 			},
 			{
-				"img": false,
-				"text":"Apesar das minhas dificuldades para entender como funciona a estilização no Flutter, considero que nesses dias fiz um excelente progresso. A nova versão já está melhor que a antiga nesse sentido, e os últimos dias foram apenas pesquisa, aprendizado e testes."
+				"text": {
+					"pt": "Apesar das minhas dificuldades para entender como funciona a estilização no Flutter, considero que nesses dias fiz um excelente progresso. A nova versão já está melhor que a antiga nesse sentido, e os últimos dias foram apenas pesquisa, aprendizado e testes.",
+					"en": "Despite my difficulties understanding how styling works in Flutter, I consider that in these days I made excellent progress. The new version is already better than the old one in this regard, and the last few days were just research, learning and testing."
+				}
 			},
 			{
-				"img": false,
-				"text": "Muito Obrigada por ler até aqui."
+				"text": {
+					"pt": "Muito Obrigada por ler até aqui.",
+					"en": "Thank you very much for reading this far."
+				}
 			}
 		]
 	}

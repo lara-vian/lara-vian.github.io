@@ -18,14 +18,8 @@
       },
       {
         "text": {
-          "pt": "Ele é feito em Next Js, utilizando styled-components para estilização. Os posts são pegos de um Json hospedado em meu github, algo muito simples, apenas para expor meu crescimento enquanto desenvolvedora.",
-          "en": "It is made with Next.js, using styled-components for styling. The posts are fetched from a JSON hosted on my GitHub, something very simple, just to showcase my growth as a developer."
-        }
-      },
-      {
-        "text": {
-          "pt": "Muito Obrigada por ler até aqui.",
-          "en": "Thank you very much for reading this far."
+          "pt": "Ele é feito em Next Js, utilizando tailwind para estilização. Os posts são pegos de um Json hospedado em meu github, algo muito simples, apenas para expor meu crescimento enquanto desenvolvedora.",
+          "en": "It is made with Next.js, using tailwind for styling. The posts are fetched from a JSON hosted on my GitHub, something very simple, just to showcase my growth as a developer."
         }
       }
     ]

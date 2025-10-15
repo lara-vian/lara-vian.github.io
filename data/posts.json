@@ -62,5 +62,39 @@
 				}
 			}
 		]
+	}, {
+		"id":2,
+		"about":0,
+		"date":"12/10/2023",
+		"title": {
+			"pt": "Revitalização do meu portifólio",
+			"en": "Revitalizing my portfolio"
+		},
+		"content":[
+			{
+				"text": {
+					"pt": "Desde que coloquei no ar esse ambiente há 2 anos eu acabei largando muitos dos projetos que queria mostrar aqui, estava focada em trabalhar e deixei de lado a parte divertida de programar. Recentemente voltei a gastar algum tempo com projetos pessoais, tive que aprender Elixir para um projeto no trabalho e gostei muito, passei a revisitar ideias antigas e pensar como elas poderiam ser feitas com Elixir e Phoenix.",
+					"en": "Since I put this environment online 2 years ago, I ended up abandoning many of the projects I wanted to showcase here. I was focused on work and left aside the fun part of programming. Recently I went back to spending some time on personal projects, I had to learn Elixir for a work project and I really enjoyed it, I started revisiting old ideas and thinking about how they could be done with Elixir and Phoenix."
+				}
+			},
+			{
+				"text": {
+					"pt": "Algumas semanas atrás comecei a desenvolver uma dessas ideias e tive o ímpeto de dar nova vida a essa ambiente para apresentar ao mundo esse novo, e divertido, passatempo. Acabei mudando e atualizando muita coisa aqui. O estilo desse site agora é feito com tailwind, ele está muito mais agradável de ser lido por dispositivos mobile, temos também um tema claro e a possibilidade de escolher o idioma dos textos.",
+					"en": "A few weeks ago I started developing one of these ideas and had the urge to give new life to this environment to present to the world this new, and fun, hobby. I ended up changing and updating a lot here. The style of this site is now made with Tailwind, it is much more pleasant to be read on mobile devices, we also have a light theme and the ability to choose the language of the texts."
+				}
+			},
+			{
+				"text": {
+					"pt": "Essas atualizações foram trabalho de uma tarde muito divertida de um fim de semana, foram mais para minha própria diversão do que uma mudança profunda, esse site continua consumindo diretamente um JSON hospedado em na minha Git Hub page, o proprio ambiente continua usando Next e sendo hospedado na versel. A ideia ainda é apenas ter um ambiente confortavel e sem limitações para contar ao mundo qualquer coisa que eu julgue interessante no desenvolvimento dos meus projetos pessoais.",
+					"en": "These updates were the work of a very fun weekend afternoon, they were more for my own enjoyment than a deep change, this site continues to directly consume a JSON hosted on my GitHub page, the environment itself continues using Next and being hosted on Vercel. The idea is still just to have a comfortable environment without limitations to tell the world anything I find interesting in the development of my personal projects."
+				}
+			},
+			{
+				"text": {
+					"pt": "Muito Obrigada por ler até aqui.",
+					"en": "Thank you very much for reading this far."
+				}
+			}
+		]
 	}
 ]
